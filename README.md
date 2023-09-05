@@ -1,3 +1,5 @@
+[![Hits](https://hits.sh/github.com/ShatilKhan/awesome-blockchain-papers/hits.svg)](https://hits.sh/github.com/ShatilKhan/awesome-blockchain-papers/hits/)
+
 # awesome-blockchain-papers
 A Curated List of Awesome Research Papers & Articles on Modern Distributed Ledger Systems including **Hashgraph**, **Zero-knowledge proof**. 
 
