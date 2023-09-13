@@ -34,3 +34,4 @@ In Zero-Knowledge systems both parties having NO Knowledge before-hand while int
 
 # Hyperledger 
 - [Hyperledger Whitepapers](https://www.hyperledger.org/learn/white-papers)
+- [Hyperledger Research](https://www.hyperledger.org/research)
