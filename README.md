@@ -31,3 +31,6 @@ In Zero-Knowledge systems both parties having NO Knowledge before-hand while int
 - [zk-WASM vs zk-EVM](https://twitter.com/HyperOracle/status/1623384955178090496?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1623384955178090496%7Ctwgr%5Ecfb7aa57390f3089f298ab3ba91a7333db425cf2%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2FHyperOracle2Fstatus2F1623384955178090496widget%3DTweet)
 - [Scalable Computation using zk-WASM](https://mirror.xyz/hyperoracleblog.eth/FRbMWj85951QWJdEhqGTC-p6TD41583SnZOa47EVsks)
 - [Binance invests in First Open Source zk-WASM](https://www.binance.com/en/blog/ecosystem/binance-labs-invests-in-delphinus-lab-the-first-opensource-zkwasm-virtual-machine-to-support-next-era-of-web3-applications-3444797851566042967)
+
+# Hyperledger 
+- [Hyperledger Whitepapers](https://www.hyperledger.org/learn/white-papers)
