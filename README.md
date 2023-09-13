@@ -22,6 +22,7 @@ Hashgraph has been stated to be an alternative to Blockchain DLT. It is far more
 - [Hedera Official Papers](https://hedera.com/papers)
 - [UCL Study on Hedera Hashgraph](https://hedera.com/papers)
 - [Guardian for ESG & Carbon fooprint](https://github.com/hashgraph/guardian)
+- [Certificate Authenticity using Hashgraph](https://ieeexplore.ieee.org/document/10200079)
 
 # Zero-Knowledge Proof
 In Zero-Knowledge systems both parties having NO Knowledge before-hand while interacting with each other.
